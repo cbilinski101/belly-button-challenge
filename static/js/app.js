@@ -17,7 +17,7 @@ function buildMetadata(sample) {
     // Inside a loop, you will need to use d3 to append new
     // tags for each key-value in the filtered metadata.
     Object.entries(result).forEach(([key, value]) => {
-      panel.append("h6").text(`${key};${value}`);
+      panel.append("h6").text(`${key}:${value}`);
     });
   });
 }
@@ -61,7 +61,7 @@ function buildCharts(sample) {
     };
 
     // // Render the Bubble Chart
-    Plotly.newPlot("bubble", bubbleData, bubbleLayout);
+    Plotly.newPlot("bubble", bubbleData, bubbleLayout, {responsive: true});
 
     // For the Bar Chart, map the otu_ids to a list of strings for your yticks
     let yticks = otuIds.slice(0, 10).map(id => `OTU ${id}`).reverse();
