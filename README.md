@@ -1,7 +1,7 @@
 [![Belly Button Challenge](https://img.shields.io/badge/Belly%20Button%20Challenge-Live-orange)](https://cbilinski101.github.io/belly-button-challenge/)
 
-![Built with D3.js](https://img.shields.io/badge/Built_with-D3.js-orange?logo=d3.js&logoColor=white)
 [![Built with D3.js](https://img.shields.io/badge/Built_with-D3.js-orange?logo=d3.js&logoColor=white)](https://d3js.org/)
+[![Built with Plotly.js](https://img.shields.io/badge/Built_with-Plotly.js-blue?logo=plotly&logoColor=white)](https://plotly.com/)
 
 
 # Dashboard to Visualize Bacteria Cultures
