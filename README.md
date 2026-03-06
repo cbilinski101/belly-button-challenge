@@ -14,19 +14,19 @@ This project provides an interactive dashboard built using JavaScript, D3.js, an
 
 1. **Metadata Panel**  
    Displays information about the selected sample, such as demographics or other relevant metadata.
-![image](https://github.com/user-attachments/assets/9cc443a6-1099-4a5e-ab4c-6f427d8c6f9c)
+![image](https://github.com/cbilinski101/belly-button-challenge/blob/01218db5d7eebb8b69d1bda89339293e2a71f174/images/belly_button_challenge_1.png)
 
 2. **Bubble Chart**  
    Visualizes the distribution of bacteria cultures using bubble size and color to represent their abundance and types.
-![image](https://github.com/user-attachments/assets/a1c8c1f0-7987-462d-ab44-8411a0e660ef)
+![image](https://github.com/cbilinski101/belly-button-challenge/blob/01218db5d7eebb8b69d1bda89339293e2a71f174/images/belly_button_challenge_2.png)
 
 3. **Bar Chart**  
    Highlights the top 10 most abundant bacteria cultures in a horizontal bar chart.
-![image](https://github.com/user-attachments/assets/dbaaf698-06ec-4cce-bb2e-815d7049a542)
+![image](https://github.com/cbilinski101/belly-button-challenge/blob/01218db5d7eebb8b69d1bda89339293e2a71f174/images/belly_button_challenge_3.png)
 
 4. **Dynamic Dropdown**  
    Allows users to select samples from a dropdown menu, dynamically updating the charts and metadata.
-![image](https://github.com/user-attachments/assets/9a135448-2c01-4b6d-9218-e79ea571144b)
+![image](https://github.com/cbilinski101/belly-button-challenge/blob/01218db5d7eebb8b69d1bda89339293e2a71f174/images/belly_button_challenge_4.png)
 
 ---
 
